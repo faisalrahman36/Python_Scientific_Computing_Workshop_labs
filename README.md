@@ -3,6 +3,8 @@ These are the sample codes for a workshop conducted by me at the Institute of Sp
 
 Please send me comments or corrections at faisalrahman36@hotmail.com.
 
+More code from the workshop is available at: https://github.com/faisalrahman36/Python_WorkShop2021
+
 Regards and stay safe.
 
 Faisal
