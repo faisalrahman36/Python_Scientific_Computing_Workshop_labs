@@ -3,7 +3,7 @@ These are the sample codes for a 2 days workshop conducted by me at the Institut
 
 Please send me comments or corrections at faisalrahman36@hotmail.com.
 
-More examples to cover some basics of Python, are available at: https://github.com/faisalrahman36/Python_WorkShop2021/tree/master
+More examples to cover some basics of Python, are available at: https://github.com/faisalrahman36/Python_WorkShop2021
 
 Regards and stay safe.
 
